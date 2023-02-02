@@ -1,0 +1,5 @@
+mercury==1.99.6
+pandas
+numpy
+matplotlib
+
