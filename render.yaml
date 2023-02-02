@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: mercury
+    env: python
+    startCommand: "mercury run 0.0.0.0:$PORT --verbose"
