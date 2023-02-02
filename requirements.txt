@@ -1,4 +1,4 @@
-mercury==1.99.6
+mercury==1.99.7
 pandas
 numpy
 matplotlib
