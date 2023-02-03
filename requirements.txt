@@ -1,3 +1,2 @@
 mercury==1.99.7
-matplotlib
 
